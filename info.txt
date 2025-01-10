@@ -1,0 +1,31 @@
+Write your documentation in the same order as seen below.
+
+• Name:
+Tobechukwu mojekwu-chukujama
+
+
+
+• Description: Write one paragraph explanation of your project 
+
+My project is an interesting and non-trivial 2D platformer game which I developed during  the objective levels learning is and process rather obstacles to basic: in enhance Control order my a to game character get development that as skills you many using can coins JavaScript pick as and and possible the move while p5. him avoiding js in a library. a creature to The colorful that time.  world appears To with from make  time the  game more challenging I included features such as gravity, collision, and control  system which made the game to be more realistic. There are several platforms of the different game levels and and the shapes monster in which  appears from time to time makes the game more interesting. Coins are located  in a way that they are scattered across the platforms and the player has to get them while avoiding monsters the and  being as precise as possible when jumping. 
+ 
+In order to make the game more interesting I  also created a selection screen where players can select their character and this form I of think relation helps with the the player game. develop Music some and  sound effects were also included in the game to make the game  more interesting with a ‘coin collection’ sound which is quite a good sound to hear after collecting  a coin. This has been a good way of being creative while at the same using some technical and skills it  also shows how coding can bring concepts to life. This is a game that is fun play to and  at the same time, it is an accumulation of the work that went into creating  it.
+
+
+
+• How to use the programme: Brief description of how to use your programme. You need to 
+cover input system as well. 
+
+ How to Use the Program 
+ 
+ This program is a 2D platformer game where players move  a character around platforms in order to collect coins and escape from a monster. In order to begin,  launch the program and use the keyboard to steer the player. The input system is rather simple: 
+ 
+ - To make the character jump, press the **up arrow key**. 
+ - To move the  character to the left, press the **left arrow key. 
+ - To move the character to the  right, press the **right arrow key. 
+ 
+ The character’s movement is smooth and the camera moves  in sync with the player as he moves from one level to another. To make sure that the player  does not hit the monster or some surfaces that will reset the game the player has to avoid them.  If the player touches the monster or the red platforms then the game will reset. When all the coins  are gathered a message that says ‘You Win’ will appear. 
+ 
+ Coins are located on different levels  and the players have to be very careful when moving around so as to get the coins without being  harmed. If at any time you want to restart the game all you have to do is to reset the  game or run the program again. It includes features such as a score counter and endgame notifications to  make the experience more engaging. It is very simple and easy to use and anyone can have fun playing  it! 
+ 
+
